@@ -1,41 +1,70 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Sami 👋</h1>
+<h1 align="center">Hi, I’m Sami 👋</h1>
+
 <p align="center">
-  Automation • Web Dev • Human-centered software
+  <strong>Automation • Web Development • AI-powered tools</strong>
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
-  <a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/sami-miri-64a017267/)">LinkedIn</a> •
-  <a href="[YOUR_RESUME_LINK](https://docs.google.com/document/d/1SwEa9ZsodYsCX2z76kvHG0zp2ONLZCQ9/edit?usp=sharing&ouid=110823803306812222170&rtpof=true&sd=true)">Resume</a> •
-  <a href="mailto:samimiri159@gmail.com">Email</a>
+  <a href="YOUR_PORTFOLIO_LINK">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/sami-miri-64a017267/">💼 LinkedIn</a> •
+  <a href="https://docs.google.com/document/d/1SwEa9ZsodYsCX2z76kvHG0zp2ONLZCQ9/edit">📄 Resume</a> •
+  <a href="mailto:samimiri159@gmail.com">✉️ Email</a>
 </p>
 
 ---
 
-## What I’m focused on right now
-- Building **OptiLife**, an AI-powered personal finance assistant.
-- Shipping small automation tools that save real time.
-- Leveling up: TypeScript, React, APIs, data workflows.
+## 🚀 What I’m building
 
-## Featured projects
-- **OptiLife** — AI financial assistant (budgeting, smarter spending).  
-  Repo: LINK • Demo: LINK
-- **Xander AI** — (one-line value statement).  
-  Repo: LINK • Demo: LINK
-- **Workflow Automation** — scripts/tools that simplify repetitive tasks.  
-  Repo: LINK
+I create tools that reduce friction, save time, and help people make better decisions.
 
-## Tech stack
-**Languages:** Python, TypeScript, JavaScript, SQL  
-**Frontend:** React, Tailwind CSS  
-**Backend:** Node.js, REST APIs  
-**Tools:** Git, GitHub Actions, Docker (if true)
+Right now I’m focused on:
+
+- **OptiLife** — an AI financial assistant that helps people budget smarter.  
+- Building lightweight automation tools that solve real problems.  
+- Deepening my skills in **TypeScript, React, and APIs**.
 
 ---
 
-## Stats (optional)
+## ⭐ Featured Projects
+
+**🔹 OptiLife — AI Personal Finance Assistant**  
+Smart budgeting, spending insights, and financial clarity.  
+Repo: *coming soon* • Demo: *coming soon*
+
+**🔹 Xander AI — Productivity Assistant**  
+AI that helps users organize tasks and streamline workflows.  
+Repo: *coming soon*
+
+**🔹 Workflow Automation Toolkit**  
+A collection of scripts that automate repetitive work.  
+Repo: *coming soon*
+
+*(You can replace “coming soon” with your real links anytime.)*
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+Python • TypeScript • JavaScript • SQL  
+
+**Frontend**  
+React • Tailwind CSS  
+
+**Backend & Tools**  
+Node.js • REST APIs • Git • GitHub Actions
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SamiMiri&show_icons=true&hide_title=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiMiri&layout=compact" />
 </p>
+
+---
+
+## 🤝 Let’s connect
+
+If you’re working on automation, AI tools, or interesting side projects, feel free to reach out.
