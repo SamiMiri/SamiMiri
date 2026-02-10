@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Builder • Automation Engineer • AI-Powered Tools</strong>
+  <strong>Builder • Automation • AI-Powered Software</strong>
 </p>
 
 <p align="center">
@@ -20,32 +20,32 @@
 I create **practical software that saves time, reduces friction, and helps people make better decisions.**
 
 Right now, I’m focused on:
-- **OptiLife** — an AI financial assistant that helps people “Spend light, sleep tight.”
-- Shipping small but powerful automation tools.
-- Strengthening my skills in **TypeScript, React, APIs, and data workflows.**
+- **OptiLife** — an AI financial assistant that helps people *“Spend light, sleep tight.”*
+- Shipping small but impactful automation tools.
+- Deepening my skills in **TypeScript, React, APIs, and data workflows.**
 
 ---
 
 ## ⭐ Featured Projects
 
 ### 💡 OptiLife — AI Personal Finance Assistant  
-A smart budgeting companion that analyzes spending, surfaces insights, and helps users make better financial choices.  
-**Status:** In active development  
-**Repo:** coming soon • **Demo:** coming soon  
+Built at **HackTX 2025**.  
+A smart budgeting companion that analyzes spending, surfaces insights, and helps users make better financial choices.
+
+🔗 **Repo:** https://github.com/PheanoukHun/HackTX25  
 
 ---
 
 ### 🤖 Xander AI — Productivity Copilot  
-An AI assistant that helps users organize tasks, prioritize work, and streamline daily workflows.  
-**Repo:** coming soon  
+An AI assistant that helps users organize tasks, prioritize work, and streamline daily workflows.
+
+🔗 **Repo:** https://github.com/SamiMiri/Xander-AI  
 
 ---
 
-### ⚙️ Automation Toolkit  
+### ⚙️ Automation Toolkit (WIP)  
 A growing collection of scripts and tools that automate repetitive work for students, creators, and teams.  
-**Repo:** coming soon  
-
-*(You can replace “coming soon” with your real links whenever you’re ready.)*
+*(New tools coming soon.)*
 
 ---
 
@@ -75,7 +75,7 @@ Node.js • REST APIs • Git • GitHub Actions • Docker
 
 ---
 
-## 🎯 About me (short + sharp)
+## 🎯 About me
 
 - General Engineering student at **Austin Community College (ACC)**  
 - Passionate about **automation, AI tools, and clean web apps**  
@@ -87,4 +87,4 @@ Node.js • REST APIs • Git • GitHub Actions • Docker
 ## 🤝 Let’s connect
 
 If you’re working on AI, automation, fintech, or interesting side projects, I’d love to chat.  
-Shoot me a message on LinkedIn or email anytime.
+Message me on LinkedIn or email anytime.
