@@ -1,16 +1,41 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi, I'm Sami 👋</h1>
+<p align="center">
+  Automation • Web Dev • Human-centered software
+</p>
 
-<!--
-**SamiMiri/SamiMiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
+  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
+  <a href="YOUR_RESUME_LINK">Resume</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m focused on right now
+- Building **OptiLife**, an AI-powered personal finance assistant.
+- Shipping small automation tools that save real time.
+- Leveling up: TypeScript, React, APIs, data workflows.
+
+## Featured projects
+- **OptiLife** — AI financial assistant (budgeting, smarter spending).  
+  Repo: LINK • Demo: LINK
+- **Xander AI** — (one-line value statement).  
+  Repo: LINK • Demo: LINK
+- **Workflow Automation** — scripts/tools that simplify repetitive tasks.  
+  Repo: LINK
+
+## Tech stack
+**Languages:** Python, TypeScript, JavaScript, SQL  
+**Frontend:** React, Tailwind CSS  
+**Backend:** Node.js, REST APIs  
+**Tools:** Git, GitHub Actions, Docker (if true)
+
+---
+
+## Stats (optional)
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
