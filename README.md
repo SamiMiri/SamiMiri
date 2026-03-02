@@ -66,14 +66,6 @@ Node.js • REST APIs • Git • GitHub Actions • Docker
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SamiMiri&show_icons=true&hide_title=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiMiri&layout=compact" />
-</p>
-
----
 
 ## 🎯 About me
 
